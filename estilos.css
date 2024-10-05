@@ -1,0 +1,47 @@
+body{
+    background: rgb(11, 9, 10);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+header{
+    text-align: center;
+    background-color: rgb(177, 167, 166);
+    color: rgb(186, 24, 27);
+    font-family: fantasy;
+    height: 300px;
+    line-height: 300px;
+}
+
+nav{
+    text-align: center;
+    color: rgb(164, 22, 26);
+    background-color: rgb(177, 167, 166);
+}
+
+#uno{
+    text-align: center;
+    background-color: azure;
+    width: 50%;
+    color: black;
+    float: left;
+    height: 1100px;
+}
+
+#dos{
+    text-align: center;
+    background-color: black;
+    float: left;
+    width: 50%;
+    height: 1100px;
+}
+
+#a{
+    clear: both;
+}
+
+footer{
+    background-color: brown;
+    text-align: center;
+    color: black;
+}
